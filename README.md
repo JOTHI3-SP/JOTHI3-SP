@@ -1,108 +1,136 @@
-<h1 align="center">Hi 👋 I'm Pooja</h1>
-<h3 align="center">Artificial Intelligence & Data Science Undergraduate</h3>
+<h1 align="center">POOJA E</h1>
 
 <p align="center">
-  <a href="mailto:poojaameh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-poojaameh@gmail.com-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://linkedin.com/in/pooja-e-86881a28b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Pooja_E-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/hemasp3">
-    <img src="https://img.shields.io/badge/GitHub-JOTHI3-SP-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://leetcode.com/u/pooja_E33">
-    <img src="https://img.shields.io/badge/LeetCode-pooja_E33-orange?style=for-the-badge&logo=leetcode">
-  </a>
+Artificial Intelligence & Data Science Undergraduate  
+</p>
+
+<p align="center">
+📍 Coimbatore, India  
+🎓 B.Tech AI & Data Science (2023–2027)  
+📊 CGPA: 9.0  
+</p>
+
+<p align="center">
+<a href="mailto:poojaameh@gmail.com">Email</a> •
+<a href="https://linkedin.com/in/pooja-e-86881a28b/">LinkedIn</a> •
+<a href="https://github.com/JOTHI3-SP">GitHub</a> •
+<a href="https://leetcode.com/u/pooja_E33">LeetCode</a>
 </p>
 
 ---
 
-## 🧠 About Me
 
-- B.Tech in Artificial Intelligence & Data Science (CGPA: 9.0)  
-- Interested in applied machine learning and NLP systems  
-- Focused on building structured, scalable AI solutions  
-- Strong foundation in data preprocessing, evaluation, and model optimization  
+## ▣ PROFILE
 
-I prefer building systems that work — not just models that train.
+I design and build machine learning systems that focus on clarity, evaluation, and practical deployment.
 
----
+My work spans computer vision, NLP, and LLM-integrated applications — with attention to preprocessing pipelines, model behavior, and scalable backend integration.
 
-## 🎓 Education
-
-**Karpagam College of Engineering, Coimbatore**  
-B.Tech – Artificial Intelligence and Data Science (2023 – 2027)  
-CGPA: 9.0  
-
-**Vidya Sikshaa Matric Higher Secondary School**  
-Bio-Maths (2021 – 2023)  
-CGPA: 9.6  
+I approach AI projects as systems, not just models.
 
 ---
 
+## ▣ PROJECT ARCHIVE
 
-## 🚀 Projects
+<table>
+<tr>
+<td width="50%">
 
-🔹 **Construction Hazard Detection System**  
-Real-time PPE violation detection using computer vision for construction site safety compliance.
+### 🏗 Construction Hazard Detection  
+Object detection system identifying PPE violations in construction environments to support workplace safety compliance.
 
-🔹 **Cervical Cancer Prediction**  
-Machine learning pipeline for structured medical data with performance-based model evaluation.
+</td>
+<td width="50%">
 
-🔹 **Tranquila – Mental Well-being Chatbot**  
-LLM-integrated NLP chatbot with mood tracking and contextual response generation.
+### 🧬 Cervical Cancer Prediction  
+End-to-end ML pipeline for structured medical datasets with preprocessing, feature selection, and metric-based validation.
 
-🔹 **Contract Analyzer**  
-Transformer-based NLP system extracting clauses, risks, and summaries with FastAPI deployment.
+</td>
+</tr>
 
-🔹 **sheEmpower Platform**  
-Scalable digital platform delivering structured resources for women empowerment.
+<tr>
+<td width="50%">
 
----
+### 💙 Tranquila  
+LLM-powered mental well-being chatbot with contextual response handling and Streamlit deployment.
 
-## 🛠 Tech Stack
+</td>
+<td width="50%">
 
-### 💻 Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-</p>
+### 📄 Contract Analyzer  
+Transformer-based NLP engine extracting clauses, risks, and summaries with FastAPI integration.
 
-### 🤖 AI / ML
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-</p>
+</td>
+</tr>
 
-### 🗄 Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" height="40"/>
-</p>
+<tr>
+<td width="50%">
 
-### ⚙ Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40"/>
-</p>
+### 🌸 sheEmpower  
+Scalable digital platform delivering structured resources through user-centric design.
+
+</td>
+<td width="50%"></td>
+</tr>
+</table>
 
 ---
 
-## 📈 Current Focus
+## ▣ TECHNICAL FOUNDATION
 
-- Advanced NLP & Transformer architectures  
-- Improving model generalization  
-- Data Structures & problem solving  
-- Production-ready AI deployment  
+
+### Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+</p>
+
+### AI / Machine Learning
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" height="45"/>
+</p>
+
+### Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
+</p>
+
+---
+
+## ▣ EXPERIENCE
+
+**Data Science Intern – YBI Foundation**
+
+- Dataset preprocessing & feature engineering  
+- Exploratory data analysis  
+- Regression & classification modeling  
+- Analytical visualization  
+
+---
+
+## ▣ CURRENT DIRECTION
+
+- Advanced Transformer architectures  
+- Model generalization & robustness  
+- Scalable AI deployment design  
+- Algorithmic problem solving  
 
 ---
 
 <p align="center">
-  Building practical AI systems with clarity, structure, and purpose.
+Structured. Scalable. Intentional.
 </p>
