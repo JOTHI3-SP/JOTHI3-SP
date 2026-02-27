@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Pooja_E-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://github.com/hemasp3">
-    <img src="https://img.shields.io/badge/GitHub-hemasp3-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-JOTHI3-SP-black?style=for-the-badge&logo=github">
   </a>
   <a href="https://leetcode.com/u/pooja_E33">
     <img src="https://img.shields.io/badge/LeetCode-pooja_E33-orange?style=for-the-badge&logo=leetcode">
