@@ -19,14 +19,13 @@ Artificial Intelligence & Data Science Undergraduate
 
 ---
 
-
 ## ▣ PROFILE
 
-I design and build machine learning systems that focus on clarity, evaluation, and practical deployment.
+I design and build machine learning systems with a focus on **clarity, evaluation, and real-world deployment**.
 
-My work spans computer vision, NLP, and LLM-integrated applications — with attention to preprocessing pipelines, model behavior, and scalable backend integration.
+My work spans **computer vision, NLP, data engineering, and LLM-powered applications**, with strong emphasis on **data pipelines, model behavior analysis, and scalable backend integration**.
 
-I approach AI projects as systems, not just models.
+I approach AI projects as **end-to-end systems — not just models.**
 
 ---
 
@@ -36,29 +35,14 @@ I approach AI projects as systems, not just models.
 <tr>
 <td width="50%">
 
-### 🏗 Construction Hazard Detection  
-Object detection system identifying PPE violations in construction environments to support workplace safety compliance.
+### 🤖 Tender Automation System  
+AI-powered multi-agent platform that automatically discovers government tenders from the GeM portal, analyzes tender documents using LLMs, evaluates eligibility criteria (including MSME relaxation logic), and generates structured insights with real-time notifications.
 
 </td>
 <td width="50%">
 
-### 🧬 Cervical Cancer Prediction  
-End-to-end ML pipeline for structured medical datasets with preprocessing, feature selection, and metric-based validation.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 💙 Tranquila  
-LLM-powered mental well-being chatbot with contextual response handling and Streamlit deployment.
-
-</td>
-<td width="50%">
-
-### 📄 Contract Analyzer  
-Transformer-based NLP engine extracting clauses, risks, and summaries with FastAPI integration.
+### 📊 Real-Time Cryptocurrency Data Streaming Pipeline  
+Scalable data engineering pipeline that ingests live cryptocurrency market data from CoinGecko, processes high-frequency streams using Apache Kafka, and loads transformed data into Snowflake for real-time analytics.
 
 </td>
 </tr>
@@ -66,8 +50,23 @@ Transformer-based NLP engine extracting clauses, risks, and summaries with FastA
 <tr>
 <td width="50%">
 
-### 🌸 sheEmpower  
-Scalable digital platform delivering structured resources through user-centric design.
+### 🚗 Real-Time Vehicle Telemetry Monitoring  
+Fleet telemetry platform that streams live vehicle data using WebSockets and provides real-time monitoring through an interactive dashboard with charts, alerts, and operational insights.
+
+</td>
+<td width="50%">
+
+### 📄 AI Contract Analyzer  
+NLP-driven legal document intelligence system that extracts clauses, risks, and summaries using transformer-based semantic search and FAISS-powered embedding retrieval.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏗 AI Construction Hazard Detection  
+Computer vision safety monitoring system that detects PPE violations and unsafe conditions on construction sites using YOLO-based object detection with optimized deployment pipelines.
 
 </td>
 <td width="50%"></td>
@@ -116,19 +115,19 @@ Scalable digital platform delivering structured resources through user-centric d
 
 **Data Science Intern – YBI Foundation**
 
-- Dataset preprocessing & feature engineering  
-- Exploratory data analysis  
-- Regression & classification modeling  
-- Analytical visualization  
+- Performed dataset preprocessing and feature engineering for machine learning workflows  
+- Conducted exploratory data analysis to uncover patterns and insights  
+- Built regression and classification models for predictive analysis  
+- Created analytical visualizations to communicate results effectively  
 
 ---
 
 ## ▣ CURRENT DIRECTION
 
-- Advanced Transformer architectures  
-- Model generalization & robustness  
-- Scalable AI deployment design  
-- Algorithmic problem solving  
+- Advanced Transformer Architectures  
+- Model Generalization & Robustness  
+- Scalable AI System Design  
+- Algorithmic Problem Solving  
 
 ---
 
